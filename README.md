@@ -2,4 +2,4 @@
 
 Sample Flutter App with implementation of Same app bar and drawer for all pages but different title
 
-<img src="output/sample.gif" alt="Preview" width="320" height="640">
+<img src="output/sample.gif" alt="Preview" width="300" height="533">
